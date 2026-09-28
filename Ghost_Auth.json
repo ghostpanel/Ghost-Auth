@@ -1,18 +1,21 @@
 {
   "licenses": [
     {
+      "Label_Name": "Ghost Corp !",
       "name": "Ghost Utilities",
       "ownerid": "spjyTYsVl9",
       "secret": "5c807ab1c1796a998692387b90c624069d4379a1f6890d3d9e332d16a8aa1d7d",
       "version": "1.0"
     },
     {
+      "Label_Name": "VEXORA UTILITIES",
       "name": "Ghost Abir",
       "ownerid": "jAuJo0SnXO",
       "secret": "16ef95c6d608743e902696bb071097130a297fbbc2b7c683767403d8f92ead44",
       "version": "1.0"
     },
     {
+      "Label_Name": "Ghost Utilities",
       "name": "GHOST GUEST RESET",
       "ownerid": "2hHNM3m44i",
       "secret": "b5d18676d15548f0135ad160a29c6f96033fd055a7d7aa5d116ef3740a071336",
