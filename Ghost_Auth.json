@@ -1,22 +1,6 @@
 {
-  "licenses": [
-    {
-      "name": "Ghost Utilities",
-      "ownerid": "spjyTYsVl9",
-      "secret": "5c807ab1c1796a998692387b90c624069d4379a1f6890d3d9e332d16a8aa1d7d",
-      "version": "1.0"
-    },
-    {
-      "name": "00",
-      "ownerid": "00",
-      "secret": "00",
-      "version": "1.0"
-    },
-    {
-      "name": "00",
-      "ownerid": "00",
-      "secret": "00",
-      "version": "1.0"
-    }
-  ]
+  "name": "Ghost Utilities",
+  "ownerid": "spjyTYsVl9",
+  "secret": "5c807ab1c1796a998692387b90c624069d4379a1f6890d3d9e332d16a8aa1d7d",
+  "version": "1.0"
 }
