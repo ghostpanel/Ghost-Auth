@@ -1,1 +1,28 @@
-2
+{
+  "category1": {
+    "name": "AIMBOT SAFE 100%",
+    "pattern": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ?? ?? ?? ?? ?? ?? ?? ??",
+    "offsets": [
+      "0xBC",
+      "0xB8"
+    ]
+  },
+
+  "category2": [
+    {
+      "name": "GUEST RESET 0B55 WORKING !!",
+      "S": "10 40 2D E9 D0 40 9F E5 04 40 8F E0 00 00 00 D4 E5 00 00 50 E3",
+      "R": "01 00 A0 E3 1E FF 2F E1 04 40 8F E0 00 00 00 D4 E5"
+    },
+    {
+      "name": "GUEST RESET 2",
+      "S": "AA BB CC DD EE FF",
+      "R": "11 22 33 44 55 66"
+    },
+    {
+      "name": "GUEST RESET 3",
+      "S": "AA BB CC DD EE FF",
+      "R": "11 22 33 44 55 66"
+    }
+  ]
+}
