@@ -20,6 +20,16 @@
       "Replace ": "01 00 00 80 00"
     },
     {
+      "name": "NEW BYPASS JUST TEST",
+      "Search": "F0 4B 2D E9 F0 51 9F E5 00 40 A0 E1 05 50 8F E0 00 00 D5 E5 00 00 50 E3 07 00 00 1A DC 01 9F E5",
+      "Replace ": "00 00 A0 E3 1E FF 2F E1"
+    },
+    {
+      "name": "Heavy Shuriken Inf Damage RISK",
+      "Search": "00 00 00 41 00 00 B0 41 11 00 00 00",
+      "Replace ": "0A D7 23 3C 0A D7 23 3C 0A D7 23 3C"
+    },
+    {
       "name": "DOUBLE RATE OF FIRE & SPEED RISK",
       "Search": "02 2B 07 3D 02 2B 07 3D 02 2B 07 3D",
       "Replace ": "0A D7 A3 3C 0A D7 A3 3C 0A D7 A3 3C"
